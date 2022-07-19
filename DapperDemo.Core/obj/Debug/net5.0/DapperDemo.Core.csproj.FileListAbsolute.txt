@@ -1,0 +1,12 @@
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\bin\Debug\net5.0\DapperDemo.Core.deps.json
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\bin\Debug\net5.0\DapperDemo.Core.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\bin\Debug\net5.0\ref\DapperDemo.Core.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\bin\Debug\net5.0\DapperDemo.Core.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.csproj.AssemblyReference.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.AssemblyInfoInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.AssemblyInfo.cs
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\ref\DapperDemo.Core.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Core\obj\Debug\net5.0\DapperDemo.Core.pdb

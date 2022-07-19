@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DapperDemo.Core\DapperDemo.Core.csproj" />
+    <ProjectReference Include="..\DapperDemo.DataAccess.Dapper\DapperDemo.DataAccess.Dapper.csproj" />
+  </ItemGroup>
+
+</Project>

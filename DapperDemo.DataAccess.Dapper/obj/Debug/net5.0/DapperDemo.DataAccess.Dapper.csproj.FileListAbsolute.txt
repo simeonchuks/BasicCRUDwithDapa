@@ -1,0 +1,15 @@
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\bin\Debug\net5.0\DapperDemo.DataAccess.Dapper.deps.json
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\bin\Debug\net5.0\DapperDemo.DataAccess.Dapper.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\bin\Debug\net5.0\ref\DapperDemo.DataAccess.Dapper.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\bin\Debug\net5.0\DapperDemo.DataAccess.Dapper.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\bin\Debug\net5.0\DapperDemo.Core.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\bin\Debug\net5.0\DapperDemo.Core.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.csproj.AssemblyReference.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.AssemblyInfo.cs
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\ref\DapperDemo.DataAccess.Dapper.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.DataAccess.Dapper\obj\Debug\net5.0\DapperDemo.DataAccess.Dapper.pdb

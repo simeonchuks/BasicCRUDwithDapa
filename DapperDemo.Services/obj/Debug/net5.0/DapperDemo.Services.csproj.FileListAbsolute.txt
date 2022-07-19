@@ -1,0 +1,17 @@
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.Services.deps.json
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.Services.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\ref\DapperDemo.Services.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.Services.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.Core.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.DataAccess.Dapper.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.Core.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\bin\Debug\net5.0\DapperDemo.DataAccess.Dapper.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.csproj.AssemblyReference.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.AssemblyInfoInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.AssemblyInfo.cs
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.csproj.CopyComplete
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\ref\DapperDemo.Services.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\UnderstandingDapa\Dapa\DapperDemo\DapperDemo.Services\obj\Debug\net5.0\DapperDemo.Services.pdb
